@@ -19,7 +19,8 @@ A link to `Google <www.google.com>`_.
    :maxdepth: 2
    :caption: Contents:
 
-   something
+   api
+
 
 Indices and tables
 ==================
